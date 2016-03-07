@@ -1,2 +1,2 @@
 # 2015Object-oriented-programming
-LAB
+All the labs in the semester.
